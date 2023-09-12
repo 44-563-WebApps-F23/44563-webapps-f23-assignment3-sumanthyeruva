@@ -2,4 +2,5 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-Hosted at [link](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-sumanthyeruva/settings/pages)
+Hosted at [link](https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment3-sumanthyeruva/settings/pages)<br>
+(https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-sumanthyeruva/)
